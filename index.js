@@ -23,7 +23,7 @@ const PORT = 8000;
 //midleware means that has access to req,res,next object.
 app.use(cors());
 app.use(express.json());
-app.use(express.static('upload'));
+app.use(express.static('uploads'));
 app.use(userRoutes);
 app.use(newRoutes);
 app.use(adminRoutes);
