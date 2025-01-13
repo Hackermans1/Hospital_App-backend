@@ -52,8 +52,7 @@ The frontend will now be running at `http://localhost:3000`.
 
 ## 🌐 Hosted Application
 
-The frontend is live and can be accessed at: [Doctors App - Live Site](https://doctors-app-frontend-um03.onrender.com)
-
+The frontend is live and can be accessed at: [Doctors App - Live Site](https://hospital-app-frontend-0emx.onrender.com)
 ## 🤝 Contribution
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
